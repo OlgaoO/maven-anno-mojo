@@ -198,11 +198,11 @@
             </build>
         </profile>
     </profiles>
-</project>
-<distributionManagement>
+    <distributionManagement>
     <repository>
         <id>olga-Latitude-E5540</id>
         <name>olga-Latitude-E5540-releases</name>
-        <url>http://localhost:8080/artifactory/ext-release-local</url>
+        <url>http://localhost:8080/artifactory/libs-release-local</url>
     </repository>
 </distributionManagement>
+</project>
