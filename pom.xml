@@ -21,7 +21,7 @@
     <packaging>pom</packaging>
 
     <prerequisites>
-        <maven>2.2.0</maven>
+       <maven>2.2.0</maven>
     </prerequisites>
 
     <name>AnnoMojo Parent</name>
